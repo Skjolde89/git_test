@@ -1,1 +1,2 @@
 This is my first thing with git. It is scary.
+Hey I made a change!
